@@ -24,7 +24,7 @@ const OPT = {
     "otherCodeC":``,//其他参数A
     "otherCodeD":``,//其他参数A
     "otherCodeE":``,//其他参数A
-    "copyRight" :`Powered by <a href="https://www.cloudflare.com">CF Workers</a> & <a href="https://blog.gezhong.vip">CF-Blog </a>`,//自定义版权信息,建议保留大公无私的 Coudflare 和 作者 的链接
+    "copyRight" :`Powered by <a href="https://www.cloudflare.com">CF Workers</a> & <a href="https://blogkv.rome.workers.dev">大堡礁Blog </a>`,//自定义版权信息,建议保留大公无私的 Coudflare 和 作者 的链接
 "robots":`User-agent: *
 Disallow: /admin`//robots.txt设置
 };
